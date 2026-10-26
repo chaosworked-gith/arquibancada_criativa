@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chaosworked-gith.github.io/arquibancada_criativa/sitemap.xml
